@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>메인 제목</h2>
+<h2>메인 제목2</h2>
 
 </body>
 </html>
